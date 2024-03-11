@@ -1,4 +1,4 @@
-## Hey there! I am Istiad Hossain (Akib).
+## Hey there! I am Istiad Hossain (Akib)
 
 <img align='right' src="coding.gif" width="250">
 
