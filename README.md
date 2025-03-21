@@ -15,3 +15,6 @@ A devoted coder on a quest to convert coffee into keystrokes, I specialize in de
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="colorbar.gif"></a>
+
+## Feeding:
+![Snake animation](https://raw.githubusercontent.com/shabnajL/shabnajL/output/github-contribution-grid-snake-dark.svg)
